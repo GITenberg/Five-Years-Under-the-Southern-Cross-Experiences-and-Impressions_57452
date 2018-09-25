@@ -1,11 +1,16 @@
 _repo: Five-Years-Under-the-Southern-Cross-Experiences-and-Impressions_57452
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57452-h/images/cover.jpg
 creator:
   author:
     agent_name: Spurr, Frederick Chambers
     gutenberg_agent_id: '49391'
     url: http://www.gutenberg.org/2009/agents/49391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57452#Five-Years-Under-the-Southern-Cross-Experiences-and-Impressions
 gutenberg_issued: '2018-07-06'
 gutenberg_type: Text
 identifiers:
